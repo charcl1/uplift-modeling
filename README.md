@@ -5,7 +5,7 @@ The goal was to identify the customer group that responds best to each incentive
 
 The data used is from Kaggle and contained information about customer features, which incentive each customer received, and how much revenue the customer generated after receiving the incentives.
 
-## What I Did
+## Workflow
 **Exploration** - Explored the variables and their distributions
 
 **Cleaning**  - Handled outliers and missing values 
