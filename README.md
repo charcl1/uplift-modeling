@@ -1,9 +1,9 @@
 # Uplift Modeling
-This project explored a b2b tech startup that sells software and wants to understand the effects of discounts, tech support, and their combination on revenue across different customer types without running randomized experiments.
+This project explores a b2b tech startup that sells software and wants to understand the effects of discounts, tech support, and their combination on revenue across different customer types without running randomized experiments.
 
-The goal was to identify the customer group that responds best to each incentive to maximize ROI.
+The goal is to identify the customer group that responds best to each incentive to maximize ROI.
 
-The data used is from Kaggle and contained information about customer features, which incentive each customer received, and how much revenue the customer generated after receiving the incentives.
+The data contains information about customer features, which incentive each customer received, and how much revenue the customer generated after receiving the incentives.
 
 ## Workflow
 **Exploration** - Explored the variables and their distributions
